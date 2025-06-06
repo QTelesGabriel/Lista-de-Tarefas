@@ -89,5 +89,3 @@ As tarefas são salvas e carregadas a partir de um arquivo binário:
 **Gabriel Queiroz Teles** - <a href="https://github.com/QTelesGabriel">Github</a>
 
 > Projeto acadêmico para praticar estruturas de dados e persistência em C.
-
----
