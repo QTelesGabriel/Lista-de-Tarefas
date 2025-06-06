@@ -1,0 +1,21 @@
+# Ignorar executável
+listaDeTarefas
+
+# Ignorar pasta de objetos
+build/
+
+# Ignorar .vscode
+.vscode/
+
+# Arquivos temporários do editor
+*~
+*.swp
+*.swo
+*.bak
+
+# Arquivos de backup do sistema (Windows)
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
